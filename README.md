@@ -1,4 +1,4 @@
-```markdown
+
 <!-- HEADER -->
 <p align="center">
   <img src="https://github.com/siyam-exe/bakabot/blob/main/public/banner.png" width="100%" alt="BakaBot Banner">
@@ -215,4 +215,3 @@ See [LICENSE](LICENSE) for details.
 <p align="center">
   🩷 <i>Made with love (and TypeScript) for anime fans everywhere.</i>
 </p>
-```
